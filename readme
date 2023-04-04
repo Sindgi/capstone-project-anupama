@@ -1,0 +1,28 @@
+Capstone Porject Title: Twitter Scrapping using SNSCRAPE
+
+Description:
+This repository contains a Python script for scraping Twitter data using the snscrape library. The script scrapes tweets based on a specified hashtag, username, or search term and saves the data to a CSV file.
+
+Requirements:
+Python 3.x
+SNsccrape library(can be installed using pip install snscrape)
+
+Installation:
+Install the pip3 install git+https://github.com/JustAnotherArchivist/snscrape.git - developer version
+
+Output:
+The script outputs a CSV file with the following columns:
+
+date: The date and time the tweet was posted
+content: The text of the tweet
+username: The username of the user who posted the tweet
+url: The URL of the tweet
+replyCount: The number of replies to the tweet
+retweetCount: The number of retweets of the tweet
+likeCount: The number of likes on the tweet
+
+Limitations:
+
+Twitter's API limits the number of tweets that can be scraped to a maximum of 100 per request.
+Snscrape may not always return all tweets for a given query, especially for popular hashtags or search terms.
+Scraping tweets may violate Twitter's terms of service. Use this script at your own risk.
