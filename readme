@@ -27,3 +27,6 @@ Limitations:
 Twitter's API limits the number of tweets that can be scraped to a maximum of 100 per request.
 Snscrape may not always return all tweets for a given query, especially for popular hashtags or search terms.
 Scraping tweets may violate Twitter's terms of service. Use this script at your own risk.
+
+Demo
+Demo for the Twitter Scraping app can be find using the following link. Youtube link: 
