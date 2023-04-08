@@ -1,4 +1,5 @@
-Capstone Porject Title: Twitter Scrapping using SNSCRAPE
+Twitter Scraping
+Built this app for Twitter Scraping by creating a web app using Streamlit. It scrapes the twitter data for the given hashtag/ keyword for the given period using snscrape library. The tweets are uploaded in MongoDB and can be dowloaded as CSV or a JSON file.Capstone Porject Title: Twitter Scrapping using SNSCRAPE
 
 Description:
 This repository contains a Python script for scraping Twitter data using the snscrape library. The script scrapes tweets based on a specified hashtag, username, or search term and saves the data to a CSV file.
